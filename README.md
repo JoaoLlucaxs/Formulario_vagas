@@ -30,6 +30,7 @@ $ git clone
 
 ```bash
 #Install
+$ npm init
 $ npm install react-toastify
 $ npm install styled-components
 $ npm install @types/styled-components
